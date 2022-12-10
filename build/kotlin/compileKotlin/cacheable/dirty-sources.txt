@@ -1,0 +1,4 @@
+D:\Distr\Android\IdeaProjects\Servers\08_coroutines\jvm\src\main\kotlin\ru\netology\coroutines\dto\Post.kt
+D:\Distr\Android\IdeaProjects\Servers\08_coroutines\jvm\src\main\kotlin\ru\netology\coroutines\main.kt
+D:\Distr\Android\IdeaProjects\Servers\08_coroutines\jvm\src\main\kotlin\ru\netology\coroutines\dto\Comment.kt
+D:\Distr\Android\IdeaProjects\Servers\08_coroutines\jvm\src\main\kotlin\ru\netology\coroutines\dto\PostWithComments.kt

@@ -1,0 +1,25 @@
+package ru.netology.coroutines.dto
+
+data class Post(
+    val id: Long,
+    //val author: String,
+    val authorId: Long,
+    //val authorAvatar: String = "",
+    val content: String,
+    val published: Long,
+    val likedByMe: Boolean,
+    val likes: Int = 0,
+    var attachment: Attachment? = null,
+
+)
+
+data class Attachment(
+    val url: String,
+    val description: String,
+)
+
+data class Author(
+    val id: Long,
+    val name: String,
+    val avatar: String,
+)
