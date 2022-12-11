@@ -2,5 +2,5 @@ package ru.netology.coroutines.dto
 
 data class CommentsWithAuthors(
     val comment: Comment,
-    val authors: List<Author>,
+    val author: Author,
 )
